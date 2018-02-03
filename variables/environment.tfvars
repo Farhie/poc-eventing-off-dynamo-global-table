@@ -1,3 +1,3 @@
-environment = "development"
+environment = "global-table-poc"
 
-region = "us-west-2"
+ingress_table_name = "ingress-table"
